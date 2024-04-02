@@ -32,3 +32,12 @@ create requirements.txt file
  add libaries flask,pandas,sklearn,numpy, matplotlib
 
  cmd (venv) pip install -r requriments.txt
+
+ ______________________________________________________________________________________________________
+
+ # Configuration based on github
+
+ 1) git config --global user.name
+ 2) git config --global user.email
+
+ 
